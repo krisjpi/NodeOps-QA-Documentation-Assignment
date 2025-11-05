@@ -38,7 +38,7 @@ SafeSend can be useful to a variety of users:
 Users can use SafeSend by following 5 easy steps:
 
 **1. Connect your Wallet** <br>
-	- Use WalletConnect to connect your wallet.
+	- Use WalletConnect to connect your wallet. <br>
     - Verify wallet ownership by signing a message. Click "Verify Wallet" and your wallet should receive a signature request.
 
 <details>
@@ -49,11 +49,11 @@ Users can use SafeSend by following 5 easy steps:
 <br>
 
 **2. Select Token and enter recipient address details.** <br>
-	- Supported tokens include NODE, WETH, USDT, and USDC.
+	- Supported tokens include NODE, WETH, USDT, and USDC. <br>
     - Please ensure recipient address is entered correctly!
 
 **3. Approve Token Transfer** <br>
-	- A new window will load with the entered transaction details. Click "Approve" to prompt an approval request in your wallet. SafeSend requests approval for the exact token amount - no infinite approvals here! Exact approvals prevent unauthorized transfers and risks of later lost funds due to infinite approvals.
+	- A new window will load with the entered transaction details. Click "Approve" to prompt an approval request in your wallet. SafeSend requests approval for the exact token amount - no infinite approvals here! Exact approvals prevent unauthorized transfers and risks of later lost funds due to infinite approvals. <br>
 	-Once the approval is confirmed, SafeSend will show a "Start Test Tx" button. This will push the amount you specified in your test transaction field to the recipient address.
 
 **4. Telegram Confirmation** (***Is this implemented yet?***) <br>
@@ -105,6 +105,7 @@ Want to see a new supported token? Drop us a note in our [Discord server] or tag
 [Discord server]: <https://discord.com/invite/JCZgbSZqaH>
 
 [X]: <https://x.com/NodeOpsHQ>
+
 
 
 
