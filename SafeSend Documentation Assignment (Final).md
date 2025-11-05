@@ -14,7 +14,7 @@ SafeSend is a new product from the team at NodeOps, as another tool to keep user
 - Adequate gas token holdings for network fees (*ex. ETH on Ethereum, Arbirtum, or Base, and BNB for Binance Smart Chain*) and tokens for the desired transfer.
 
 <details>
-<Summary> Wallet must be able to connect to one of the following Supported Networks:</Summary>
+<Summary> Wallet must be able to connect to one of the following supported networks:</Summary>
 
 - #### Arbitrum One <br>
 - #### Arbitrum Sepolia<br>
@@ -105,5 +105,6 @@ Want to see a new supported token? Drop us a note in our [Discord server] or tag
 [Discord server]: <https://discord.com/invite/JCZgbSZqaH>
 
 [X]: <https://x.com/NodeOpsHQ>
+
 
 
