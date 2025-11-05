@@ -48,7 +48,7 @@ Users can use SafeSend by following 5 easy steps:
 </details>
 <br>
 
-**2. Select Token and enter recipient address details.** <br>
+**2. Select Token and enter recipient address details** <br>
 	- Supported tokens include NODE, WETH, USDT, and USDC. <br>
     - Please ensure recipient address is entered correctly!
 
@@ -105,6 +105,7 @@ Want to see a new supported token? Drop us a note in our [Discord server] or tag
 [Discord server]: <https://discord.com/invite/JCZgbSZqaH>
 
 [X]: <https://x.com/NodeOpsHQ>
+
 
 
 
