@@ -39,7 +39,7 @@ Users can use SafeSend by following 5 easy steps:
 
 **1. Connect your Wallet**
     - Use WalletConnect to connect your wallet.
-    - Verify wallet ownership by signing a message. Click "Verify Wallet" and your wallet should request a signature.
+    - Verify wallet ownership by signing a message. Click "Verify Wallet" and your wallet should receive a signature request.
 
 <details>
 <Summary> Safety Note</Summary>
@@ -105,4 +105,5 @@ Want to see a new supported token? Drop us a note in our [Discord server] or tag
 [Discord server]: <https://discord.com/invite/JCZgbSZqaH>
 
 [X]: <https://x.com/NodeOpsHQ>
+
 
